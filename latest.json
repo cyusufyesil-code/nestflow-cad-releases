@@ -1,5 +1,5 @@
 {
-  "version": "1.37.4",
-  "url": "https://github.com/cyusufyesil-code/nestflow-cad-releases/releases/download/v1.37.4/NESTFLOWCAD-1.37.4-setup.exe",
-  "notes": "AÇIÖLÇÜ: Dış (tamamlayıcı) açı artık tamamen fareyle seçiliyor — \"ölçü yayının yeri\" gezdirilirken imlecin bulunduğu çeyreğin açısı canlı önizlemeyle gösterilir, tıklamayla kilitlenir; bir pah/kesim köşesinde hem iç (135°) hem dış (45°) açı okunabiliyor. Yardım penceresindeki asılı kalan geri-gezinme ipucu giderildi."
+  "version": "1.37.5",
+  "url": "https://github.com/cyusufyesil-code/nestflow-cad-releases/releases/download/v1.37.5/NESTFLOWCAD-1.37.5-setup.exe",
+  "notes": "AÇIÖLÇÜ: v1.37.4'te tanıtılan fare tabanlı dış/tamamlayıcı açı seçiminde, sanal (aynalanmış) yöndeki uzatma çizgisi gerçek kenarın tam boyu kadar çizilip boşluğa doğru uzayan bir hayalet çizgi oluşturuyordu. Artık yayın hemen ötesinde kısa bir kuyrukla bitiyor — gerçek AutoCAD'deki gibi."
 }
