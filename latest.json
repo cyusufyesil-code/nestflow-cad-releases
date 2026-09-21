@@ -1,5 +1,5 @@
 {
-  "version": "1.37.2",
-  "url": "https://github.com/cyusufyesil-code/nestflow-cad-releases/releases/download/v1.37.2/NESTFLOWCAD-1.37.2-setup.exe",
-  "notes": "Bazı DXF dosyalarında (bayat $EXTMIN/$EXTMAX header'lı) çizim açılışta yanlış yakınlaştırılıyor ve hiçbir nesne seçilemiyordu; Izgara Yakalama açıkken ızgaraya hizalı olmayan parçalarda tek tıkla seçim ıskalıyordu — ikisi de düzeltildi."
+  "version": "1.37.3",
+  "url": "https://github.com/cyusufyesil-code/nestflow-cad-releases/releases/download/v1.37.3/NESTFLOWCAD-1.37.3-setup.exe",
+  "notes": "AÇIÖLÇÜ: pah/kesim köşelerinde \"Dış\" seçeneğiyle tamamlayıcı (iç/dış) açı canlı önizlemeyle ölçülebiliyor. DİKDÖRTGEN: \"Merkez\" seçeneğiyle merkezden simetrik dikdörtgen çizilebiliyor. Yardım şeridindeki \"Güncelleme\" düğmesinin bölünen metni düzeltildi."
 }
