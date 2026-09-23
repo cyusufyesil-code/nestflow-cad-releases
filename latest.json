@@ -1,5 +1,5 @@
 {
-  "version": "1.37.5",
-  "url": "https://github.com/cyusufyesil-code/nestflow-cad-releases/releases/download/v1.37.5/NESTFLOWCAD-1.37.5-setup.exe",
-  "notes": "AÇIÖLÇÜ: v1.37.4'te tanıtılan fare tabanlı dış/tamamlayıcı açı seçiminde, sanal (aynalanmış) yöndeki uzatma çizgisi gerçek kenarın tam boyu kadar çizilip boşluğa doğru uzayan bir hayalet çizgi oluşturuyordu. Artık yayın hemen ötesinde kısa bir kuyrukla bitiyor — gerçek AutoCAD'deki gibi."
+  "version": "1.38.1",
+  "url": "https://github.com/cyusufyesil-code/nestflow-cad-releases/releases/download/v1.38.1/CAD16-1.38.1-setup.exe",
+  "notes": "Ürün CAD16 olarak yeniden markalandı (bir NESTFLOW ürünüdür). Açılış ekranı: gerçek CAD16 görseli artık tüm ekranı kaplıyor, yavaş bir \"Ken Burns\" yakınlaşmasıyla hareketli. Zaten kurulu kullanıcılar için tam süreklilik: ayarlar, kurulum yolu ve lisans dosyaları etkilenmez."
 }
