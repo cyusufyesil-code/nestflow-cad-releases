@@ -1,5 +1,5 @@
 {
-  "version": "1.38.12",
-  "url": "https://github.com/cyusufyesil-code/nestflow-cad-releases/releases/download/v1.38.12/CAD16-1.38.12-setup.exe",
-  "notes": "MTEXT biçim kodu kalıntısı temizlendi: Siemens NX/PDM kaynaklı bazı DXF dosyalarında ölçü etiketleri \"W1.0000;119\" gibi okunaksız görünüyordu — artık temiz metin olarak açılıyor."
+  "version": "1.38.13",
+  "url": "https://github.com/cyusufyesil-code/nestflow-cad-releases/releases/download/v1.38.13/CAD16-1.38.13-setup.exe",
+  "notes": "Kağıt Alanı (Layout) sığdırma hatası düzeltildi: bazı dosyalarda pencere büyütülse/maksimize edilse bile çizim küçük kalıyordu, artık otomatik yeniden sığdırılıyor. Açılış ekranı animasyonu kaldırıldı, sadeleştirildi ve logo bir tık küçültüldü."
 }
