@@ -1,5 +1,5 @@
 {
-  "version": "1.38.11",
-  "url": "https://github.com/cyusufyesil-code/nestflow-cad-releases/releases/download/v1.38.11/CAD16-1.38.11-setup.exe",
-  "notes": "Açılış ekranı: dişli çark tasarımı kaldırıldı, basit yuvarlak köşeli dikdörtgene dönüldü. CAD16 logosu yeniden tam tuvali kaplıyor (dairesel rozet kırpması yok)."
+  "version": "1.38.12",
+  "url": "https://github.com/cyusufyesil-code/nestflow-cad-releases/releases/download/v1.38.12/CAD16-1.38.12-setup.exe",
+  "notes": "MTEXT biçim kodu kalıntısı temizlendi: Siemens NX/PDM kaynaklı bazı DXF dosyalarında ölçü etiketleri \"W1.0000;119\" gibi okunaksız görünüyordu — artık temiz metin olarak açılıyor."
 }
