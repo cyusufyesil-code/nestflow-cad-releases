@@ -1,5 +1,5 @@
 {
-  "version": "1.38.13",
-  "url": "https://github.com/cyusufyesil-code/nestflow-cad-releases/releases/download/v1.38.13/CAD16-1.38.13-setup.exe",
-  "notes": "Kağıt Alanı (Layout) sığdırma hatası düzeltildi: bazı dosyalarda pencere büyütülse/maksimize edilse bile çizim küçük kalıyordu, artık otomatik yeniden sığdırılıyor. Açılış ekranı animasyonu kaldırıldı, sadeleştirildi ve logo bir tık küçültüldü."
+  "version": "1.38.14",
+  "url": "https://github.com/cyusufyesil-code/nestflow-cad-releases/releases/download/v1.38.14/CAD16-1.38.14-setup.exe",
+  "notes": "DENEYSEL: GPU (OpenGL) render ana düzenleme ekranına bağlandı — \"GPUANAEKRAN\" komutuyla açılıp kapanır (varsayılan kapalı, GDI+ hiç etkilenmez). Ağır dosyalarda pan/zoom sırasında donanım hızlandırmalı çizim denenebilir."
 }
