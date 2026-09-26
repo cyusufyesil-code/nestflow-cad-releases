@@ -1,5 +1,5 @@
 {
-  "version": "1.38.17",
-  "url": "https://github.com/cyusufyesil-code/nestflow-cad-releases/releases/download/v1.38.17/CAD16-1.38.17-setup.exe",
-  "notes": "Yeni: SolidWorks'e Gönder (Ctrl+Shift+C veya Pano grubundaki düğme). Seçilen çizim açık SolidWorks parçasına gerçek eskiz çizgisi, yayı ve çemberi olarak 1:1 ölçekte aktarılır; konturlar kapalı gelir, doğrudan ekstrüzyonla katıya dönüştürülebilir. SolidWorks'te eskiz açıksa ona eklenir, değilse Ön Düzlem'de yeni eskiz açılır."
+  "version": "1.38.18",
+  "url": "https://github.com/cyusufyesil-code/nestflow-cad-releases/releases/download/v1.38.18/CAD16-1.38.18-setup.exe",
+  "notes": "SolidWorks'e kopyala-yapıştır: CAD16'da çizimi seçip Ctrl+C yapın, SolidWorks'te (eskiz dışındayken) Ctrl+V yapın — yeni eskiz açılır, çizim gerçek doğru/yay/çember olarak aynı konum ve ölçüde (1:1) gelir; konturlar kapalıdır, doğrudan ekstrüzyonla katıya dönüştürülebilir. Word/Excel'e yapıştırma da çalışmaya devam eder."
 }
