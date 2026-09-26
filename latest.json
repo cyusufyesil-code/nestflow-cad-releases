@@ -1,5 +1,5 @@
 {
-  "version": "1.38.18",
-  "url": "https://github.com/cyusufyesil-code/nestflow-cad-releases/releases/download/v1.38.18/CAD16-1.38.18-setup.exe",
-  "notes": "SolidWorks'e kopyala-yapıştır: CAD16'da çizimi seçip Ctrl+C yapın, SolidWorks'te (eskiz dışındayken) Ctrl+V yapın — yeni eskiz açılır, çizim gerçek doğru/yay/çember olarak aynı konum ve ölçüde (1:1) gelir; konturlar kapalıdır, doğrudan ekstrüzyonla katıya dönüştürülebilir. Word/Excel'e yapıştırma da çalışmaya devam eder."
+  "version": "1.38.19",
+  "url": "https://github.com/cyusufyesil-code/nestflow-cad-releases/releases/download/v1.38.19/CAD16-1.38.19-setup.exe",
+  "notes": "Kopyalama artık hiçbir programa bağlı değil: Ctrl+C her zaman DXF dosyası, DXF metni, vektörel resim (EMF) ve PNG olarak panoya kopyalar — Gezgin'e dosya, Word/Excel'e resim olarak yapıştırılır. SolidWorks açıksa ayrıca onun biçimi de eklenir; SolidWorks'te eskiz dışındayken Ctrl+V ile çizim gerçek geometri olarak aynı konumda gelir."
 }
