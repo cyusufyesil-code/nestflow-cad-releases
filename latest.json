@@ -1,5 +1,5 @@
 {
-  "version": "1.38.19",
-  "url": "https://github.com/cyusufyesil-code/nestflow-cad-releases/releases/download/v1.38.19/CAD16-1.38.19-setup.exe",
-  "notes": "Kopyalama artık hiçbir programa bağlı değil: Ctrl+C her zaman DXF dosyası, DXF metni, vektörel resim (EMF) ve PNG olarak panoya kopyalar — Gezgin'e dosya, Word/Excel'e resim olarak yapıştırılır. SolidWorks açıksa ayrıca onun biçimi de eklenir; SolidWorks'te eskiz dışındayken Ctrl+V ile çizim gerçek geometri olarak aynı konumda gelir."
+  "version": "1.38.20",
+  "url": "https://github.com/cyusufyesil-code/nestflow-cad-releases/releases/download/v1.38.20/CAD16-1.38.20-setup.exe",
+  "notes": "Lisans sistemi yenilendi. Önemli: Bu sürümden önce verilmiş lisans dosyaları artık geçerli değildir; yeni lisans dosyası için NESTFLOW ile iletişime geçin. Deneme sürümü etkilenmez."
 }
