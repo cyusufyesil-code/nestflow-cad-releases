@@ -1,5 +1,5 @@
 {
-  "version": "1.38.22",
-  "url": "https://github.com/cyusufyesil-code/nestflow-cad-releases/releases/download/v1.38.22/CAD16-1.38.22-setup.exe",
-  "notes": "Lisans anahtar çifti yenilendi. Önemli: Bu sürümden önce verilmiş lisans dosyaları artık geçerli değildir; yeni lisans dosyası için NESTFLOW ile iletişime geçin. Deneme sürümü etkilenmez."
+  "version": "1.38.23",
+  "url": "https://github.com/cyusufyesil-code/nestflow-cad-releases/releases/download/v1.38.23/CAD16-1.38.23-setup.exe",
+  "notes": "Büyük çizimlerde daha akıcı seçim, kaydırma ve yakınlaştırma; dosya arka planda açılır. Yeni: nesne izleme (F11), çokgen/çit seçim, LAZERTEMİZLE, PARÇALİSTE, TABLO, ÇOKOK, KISAYOL, zengin sağ tık menüsü."
 }
